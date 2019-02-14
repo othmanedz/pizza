@@ -1,0 +1,8 @@
+userManager\service\UserManagerService.class
+userManager\service\User.class
+userManager\service\UserManagerPublisher.class
+userManager\service\Pizza.class
+userManager\service\Command.class
+userManager\service\UserManagerImpl.class
+userManager\service\CommandManagerService.class
+userManager\service\Role.class
